@@ -1,5 +1,5 @@
 # twomes-reposotory template
-A template repossotory for the Twomes project.
+A template repository for the Twomes project.
 
 ## Table of contents
 * [General info](#general-info)
