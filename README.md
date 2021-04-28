@@ -3,8 +3,9 @@ A template repository for the Twomes project.
 
 ## Table of contents
 * [General info](#general-info)
-* [Using binary releases](#using-binaries-releases)
-* [Developing with the source code ](#developing-with-the-source-code) 
+* [Prerequisites](#prerequisites)
+* [Deploying](#deploying)
+* [Developing](#developing) 
 * [Features](#features)
 * [Status](#status)
 * [License](#license)
@@ -13,23 +14,37 @@ A template repository for the Twomes project.
 ## General info
 Add more general information about the repo. What is purpose of the code in the repo? Motivation?
 
-## Using binary releases
-You can download and locally install the lastest installable version(s) via <link to the latest binary release(s) you published and describe to how people can install and run thise binaries; if needed describe this for different platforms>.
+## Prerequisites
+Describe which (hardware and) software you need before you can deploy the software or develop with the source code. If the prerequisites are different for deploying users and developing users, you may want to move the prerequisites section as a subsection of each of those sections.
 
-## Developing with the source code 
-Describe how to use / adapt/ compile the souce code. 
+## Deploying
+Describe how the reader can download and install the lastest installable version(s). If appropriate, link to the latest binary release or package you published in the repo. If needed, describe this for different platforms.
+Use steps if the procedure is non-trivial:
+1. first step;
+2. second step;
+3. final step.
+
+Format any scripts or commands in a way that makes them  easy to copy, like the following example. 
+
+Forgotten your Wi-Fi password? No problem with the follwing command, replacing `SSID` with the Wi-Fi name of your own Wi-Fi network: 
+```shell
+netsh wlan show profile SSID key=clear
+```
+
+## Developing
+Describe how the reader can use / adapt/ compile the souce code. 
 
 ## Features
 List of features ready and TODOs for future development. Ready:
 
-* Awesome feature 1
-* Awesome feature 2
-* Awesome feature 3
+* awesome feature 1;
+* awesome feature 2;
+* awesome feature 3.
 
 To-do:
 
-* Wow improvement to be done 1
-* Wow improvement to be done 2
+* wow improvement to be done 1;
+* wow improvement to be done 2.
 
 ## Status
 Project is: _in progress_, _finished_, _no longer continue_ and why?
@@ -51,6 +66,3 @@ We use and gratefully aknowlegde the efforts of the makers of the following sour
 * [library name 2 and version](library 2 URL), by <copyright holder name 2>, licensed under [license 2 name](license2 URL)
 * [library name 3 and version](library 3 URL), by <copyright holder name 3>, licensed under [license 3 name](license3 URL)
 * etc. 
-
-## Contact
-<not yet determined; which contact info to include here?>
