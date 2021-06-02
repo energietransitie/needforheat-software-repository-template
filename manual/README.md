@@ -21,7 +21,9 @@ In this same folder there is a `preview.html`, opening this in your webbrowser w
 
 Example for Google Chrome users. Either use the `F12` key or `Ctrl+Shift+I` to open the developer tools.
 Then at the top left of the developer tools, the second icon can be used to enter 'Responsive design modus'.
+
 ![Image](./chrome-devtools.png)
+
 Additionally above the viewport you can set custom dimensions or using the available dropdown selecting any predefined devices such as the Google Pixel or iPhone.
 
 ## Deployment
