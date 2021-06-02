@@ -26,7 +26,8 @@ Open the file `preview.html` using a regular web browser to preview your manual 
 1. Press the `Ctrl + Shift + I` keys (or `F12` ) on your keyboard to access the Developer Tools.
 2. Press the `Ctrl + Shift + M` keys on to enter (mobile) device emulation mode.
 
-By default, your preview is now in 'Responsive' mode. Using the dropdown menu (above the preview), you can also select custom dimensions for specific devices, such as the iPhone 6/7/8.<br>
+By default, your preview is now in 'Responsive' mode. Using the dropdown menu (above the preview), you can also select custom dimensions for specific devices, such as the iPhone 6/7/8.
+
 ![Image](./chromium-devtools.png)
 
 ## Deploying
