@@ -1,4 +1,4 @@
-# twomes-repository template
+# Twomes software repository template
 A template repository for the Twomes project.
 
 ## Table of contents
