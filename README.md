@@ -36,13 +36,11 @@ Describe how the reader can use / adapt/ compile the souce code.
 
 ## Features
 List of features ready and TODOs for future development. Ready:
-
 * awesome feature 1;
 * awesome feature 2;
 * awesome feature 3.
 
 To-do:
-
 * wow improvement to be done 1;
 * wow improvement to be done 2.
 
@@ -54,14 +52,13 @@ This software is available under the [Apache 2.0 license](./LICENSE), Copyright 
 
 ## Credits
 This software is a collaborative effort of:
-* <contributor name 1> ·  [@Github_handle_1](https://github.com/<github_handle_1>) ·  Twitter [@Twitter_handle_1](https://twitter.com/<twitter_handle_1>)
-* <contributor name 2> ·  [@Github_handle_2](https://github.com/<github_handle_2>) ·  Twitter [@Twitter_handle_2](https://twitter.com/<twitter_handle_2>)
-* <contributor name 3> ·  [@Github_handle_3](https://github.com/<github_handle_3>) ·  Twitter [@Twitter_handle_3](https://twitter.com/<twitter_handle_3>)
+* <contributor name 1> · [@Github_handle_1](https://github.com/<github_handle_1>) · Twitter [@Twitter_handle_1](https://twitter.com/<twitter_handle_1>)
+* <contributor name 2> · [@Github_handle_2](https://github.com/<github_handle_2>) · Twitter [@Twitter_handle_2](https://twitter.com/<twitter_handle_2>)
+* <contributor name 3> · [@Github_handle_3](https://github.com/<github_handle_3>) · Twitter [@Twitter_handle_3](https://twitter.com/<twitter_handle_3>)
 * etc. 
 
 
 We use and gratefully aknowlegde the efforts of the makers of the following source code and libraries:
-
 * [library name 1 and version](library 1 URL), by <copyright holder name 1>, licensed under [license 1 name](license1 URL)
 * [library name 2 and version](library 2 URL), by <copyright holder name 2>, licensed under [license 2 name](license2 URL)
 * [library name 3 and version](library 3 URL), by <copyright holder name 3>, licensed under [license 3 name](license3 URL)
