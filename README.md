@@ -3,7 +3,6 @@ A template repository for the Twomes project.
 
 ## Table of contents
 * [General info](#general-info)
-* [Prerequisites](#prerequisites)
 * [Deploying](#deploying)
 * [Developing](#developing) 
 * [Features](#features)
