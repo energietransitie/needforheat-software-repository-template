@@ -14,10 +14,13 @@ A template repository for the Twomes project.
 ## General info
 Add more general information about the repo. What is purpose of the code in the repo? Motivation?
 
-## Prerequisites
-Describe which (hardware and) software you need before you can deploy the software or develop with the source code. If the prerequisites are different for deploying users and developing users, you may want to move the prerequisites section as a subsection of each of those sections.
-
 ## Deploying
+This section describes how you can deploy binary releases of the firmware, i.e. without changing the source code, without a development environment and without needing to compile the source code.
+
+### Prerequisites
+Describe which (hardware and) software you need before you can deploy the software. If the prerequisites are different the same for deploying users and developing users, you may want to merge the prerequisites sections.
+
+### Other steps 
 Describe how the reader can download and install the lastest installable version(s). If appropriate, link to the latest binary release or package you published in the repo. If needed, describe this for different platforms.
 Use steps if the procedure is non-trivial:
 1. first step;
@@ -32,7 +35,10 @@ netsh wlan show profile SSID key=clear
 ```
 
 ## Developing
-Describe how the reader can use / adapt/ compile the souce code. 
+This section describes how you can change the source code using a development environment and compile the source code into a binary release of the firmware that can be deployed, either via the development environment, or via the method described in the section [Deploying](#deploying).
+
+### Prerequisites
+Describe which (hardware and) software you need before you can change or extend the source code. If the prerequisites are different the same for deploying users and developing users, you may want to merge the prerequisites sections.
 
 ## Features
 List of features ready and TODOs for future development. Ready:
