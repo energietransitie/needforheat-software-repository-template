@@ -1,5 +1,5 @@
-# Twomes software repository template
-A template repository for the Twomes project.
+# Generic software repository template   
+This is a template repository for software published by the Research Group Energy Transiton at Windesheim University of Applied Sciences.
 
 ## Table of contents
 * [General info](#general-info)
@@ -11,7 +11,7 @@ A template repository for the Twomes project.
 * [Credits](#credits)
 
 ## General info
-Add more general information about the repo. What is purpose of the code in the repo? Motivation?
+This template was developed during the Twomes project and refined further in the Brains4Buildings and REDUCEDHEATCARB projects. Please use this template to create software repositories that adhere to the generic guidelines for (open) software published by the Research Group Energy Transition. In this section of the README, you should include general information about your repo. What is purpose of the code in the repo? Motivation? 
 
 ## Deploying
 This section describes how you can deploy binary releases of the firmware, i.e. without changing the source code, without a development environment and without needing to compile the source code.
